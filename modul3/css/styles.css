@@ -1,0 +1,48 @@
+.main{
+	padding: 0px;
+	background-color: black;
+	margin: 0px;
+}
+.food{
+	background-color: black;
+	font-size: 3em;
+}
+.menu{
+	background-color: blue;
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+}
+.title{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 2.5em;
+	font: bold;
+}
+.p1 {
+	margin: 10px 40px 10px 40px;
+	overflow-wrap: break-word;
+	color: black;
+	background-color: #FFFFA07A;
+	text-align: center;
+}
+.p2 {
+	margin: 10px 40px 10px 40px;
+	overflow-wrap: break-word;
+	color: black;
+	background-color: #008080;
+	text-align: center;
+	}
+.p3 {
+	margin: 10px 40px 10px 40px;
+	overflow-wrap: break-word;
+	color: black;
+	background-color: rgb(255,153,204);
+	text-align: center;
+	}
+.div1{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-transform:capitalize;
+	font-size: 2em;
+}
